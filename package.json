@@ -1,5 +1,5 @@
 {
-  "name": "dev-setup-template",
+  "name": "javascript-playground",
   "version": "1.0.0",
   "description": "",
   "private": true,
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/florianGierlichs/dev-setup-template.git"
+    "url": "git+https://github.com/florianGierlichs/javascriptPlayground.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/florianGierlichs/dev-setup-template/issues"
+    "url": "https://github.com/florianGierlichs/javascriptPlayground/issues"
   },
-  "homepage": "https://github.com/florianGierlichs/dev-setup-template#readme",
+  "homepage": "https://github.com/florianGierlichs/javascriptPlayground#readme",
   "devDependencies": {
     "clean-webpack-plugin": "^3.0.0",
     "css-loader": "^3.4.2",
